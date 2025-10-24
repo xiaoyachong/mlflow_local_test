@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+.DS_Store
+SMI_test/733_april24_2025_png/
+SMI_test/comparison*/
+SMI_test/comparison*/
+TRS_test/comparison*/
+TRS_test/local*/
+TRS_test/shot_averages/
