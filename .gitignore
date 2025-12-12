@@ -214,3 +214,6 @@ SMI_test/comparison*/
 TRS_test/comparison*/
 TRS_test/local*/
 TRS_test/shot_averages/
+Timepix_test/output/
+Timepix_test/comparison_results_neural_pca/
+Timepix_test/comparison_results_pca/
